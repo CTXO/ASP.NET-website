@@ -84,3 +84,5 @@
 /home/romero/Documents/dotnet/CursoMVC/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
 /home/romero/Documents/dotnet/CursoMVC/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /home/romero/Documents/dotnet/CursoMVC/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/romero/Documents/dotnet/CursoMVC/bin/Debug/netcoreapp3.1/Npgsql.dll
+/home/romero/Documents/dotnet/CursoMVC/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
