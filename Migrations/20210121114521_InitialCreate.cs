@@ -10,13 +10,13 @@ namespace CursoMVC.Migrations
                 name: "Categorias",
                 columns: table => new
                 {
-                    id = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Descicao = table.Column<int>(type: "int", nullable: false)
+                    Descricao = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Categorias", x => x.id);
+                    table.PrimaryKey("PK_Categorias", x => x.Id);
                 });
         }
 
