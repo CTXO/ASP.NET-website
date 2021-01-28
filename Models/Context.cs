@@ -9,8 +9,7 @@ namespace CursoMVC.Models
         public DbSet<Categoria> Categorias { get; set;}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost,5432;Database=Cursomvc;Integrated Security=True;");
-            
+            optionsBuilder.UseNpgsql("Host=rodolfo;Database=Cursomvc;Username=postgres;Password=ramses08.");
         }
     }
 }
