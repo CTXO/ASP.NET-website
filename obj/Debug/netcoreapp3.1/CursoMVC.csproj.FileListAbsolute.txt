@@ -86,3 +86,8 @@
 /home/romero/Documents/dotnet/CursoMVC/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /home/romero/Documents/dotnet/CursoMVC/bin/Debug/netcoreapp3.1/Npgsql.dll
 /home/romero/Documents/dotnet/CursoMVC/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/romero/Documents/dotnet/CursoMVC/obj/Debug/netcoreapp3.1/Razor/Views/Categorias/Create.cshtml.g.cs
+/home/romero/Documents/dotnet/CursoMVC/obj/Debug/netcoreapp3.1/Razor/Views/Categorias/Delete.cshtml.g.cs
+/home/romero/Documents/dotnet/CursoMVC/obj/Debug/netcoreapp3.1/Razor/Views/Categorias/Details.cshtml.g.cs
+/home/romero/Documents/dotnet/CursoMVC/obj/Debug/netcoreapp3.1/Razor/Views/Categorias/Edit.cshtml.g.cs
+/home/romero/Documents/dotnet/CursoMVC/obj/Debug/netcoreapp3.1/Razor/Views/Categorias/Index.cshtml.g.cs
