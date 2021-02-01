@@ -10,6 +10,7 @@ namespace CursoMVC.Models
         [Key]
         public int Id {get; set;}
 
+        [Display(Name = "Descrição")]
         public string Descricao  { get; set; }
 
         List<Produto> Produtos {get; set;}
